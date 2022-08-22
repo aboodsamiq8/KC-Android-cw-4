@@ -1,0 +1,32 @@
+التمرين الاول
+
+public class Main
+{
+    public static void main(String[] args) {
+        System.out.println(totalGrade(69,69));
+
+
+    }
+
+    public static int totalGrade(int num1, int num2){
+
+        return num1 + num2;
+
+
+    }
+}
+التمرين الثاني
+
+public class Main
+{
+    public static void temperature(int num1){
+        int num1 = 17;
+
+        if(num1>23){
+            System.out.println("HOT");
+
+        }else{
+            System.out.println("cold");
+
+    }
+}
